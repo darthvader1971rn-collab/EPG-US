@@ -1,0 +1,10 @@
+# USA - CBS Regionals
+WBZ-DT.us_locals1
+KCAL-DT.us_locals1
+KCBS-DT.us_locals1
+WCBS-DT.us_locals1
+
+# USA - FOX Regionals
+WFLD-DT.us_locals1
+KTTV-DT.us_locals1
+WNYW-DT.us_locals1
